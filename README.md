@@ -28,17 +28,13 @@ Why do employees leave? Can we predict who is at risk of leaving?
 
 ## Model Performance
 - Algorithm: Random Forest Classifier (100 estimators)
-- Accuracy: **85%**
+- Accuracy: **84.7%**
 - Key challenge: Class imbalance (1,233 No vs 237 Yes)
 
 ## Project Structure
 ```
 ├── HR_Attrition_Analysis.ipynb   # Main analysis notebook
-├── WA_Fn-UseC_-HR-Employee-Attrition.csv  # Dataset (download from Kaggle)
-├── feature_importance.png         # Feature importance chart
-├── attrition_by_department.png    # Department analysis chart
-├── income_vs_attrition.png        # Income vs attrition chart
-├── attrition_by_overtime.png      # Overtime analysis chart
+├── HR-Attrition-Analysis.pdf     # Power BI Dashboard export
 └── README.md
 ```
 
@@ -57,4 +53,4 @@ Interactive Power BI dashboard includes:
 
 ## Author
 Maha — Junior Data Analyst | Abu Dhabi, UAE  
-[LinkedIn](www.linkedin.com/in/mahaessaam) 
+[LinkedIn](https://www.linkedin.com/in/mahaessaam) 
